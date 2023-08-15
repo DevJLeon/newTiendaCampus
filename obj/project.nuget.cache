@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "x88r3fx+MpPnFZPzgu5zbGa3rPmXLTHAOcnQFFNNU8iqZrX8lHmAixToxC8BxqHKo3SjcZHK91aewlTls9UNKA==",
+  "dgSpecHash": "BkcyG2QFWRx1E+v77BVgQsilUGQJEaIXdDANbIM4b0d79yH00A7vOprqvxIYw3hwxavVVgG0Mh0bTBjSDIb3XA==",
   "success": true,
-  "projectFilePath": "/home/apolt01-010/Documents/Joshua/tiendaCampus/tiendaCampus.csproj",
+  "projectFilePath": "/home/skylab-114/Documents/Joshua/newTiendaCampus/tiendaCampus.csproj",
   "expectedPackageFiles": [
-    "/home/apolt01-010/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/skylab-114/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

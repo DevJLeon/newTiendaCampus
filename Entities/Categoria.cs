@@ -26,6 +26,6 @@ public class Categoria
         Env.TiendaCampus.Categorias.Add(cat); //Repasar esto********** pq no entiendo XD
     }
     public IEnumerable<Categoria> ListaCategorias(){
-        return from cat in Env.TiendaCampus.Categorias
+        return from cat in Env.TiendaCampus.Categorias select cat;
     }
 }

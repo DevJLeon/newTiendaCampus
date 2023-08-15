@@ -1,0 +1,17 @@
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.csproj.AssemblyReference.cache
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.AssemblyInfoInputs.cache
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.AssemblyInfo.cs
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.csproj.CoreCompileInputs.cache
+/home/skylab-114/Documents/Joshua/newTiendaCampus/bin/Debug/net7.0/tiendaCampus
+/home/skylab-114/Documents/Joshua/newTiendaCampus/bin/Debug/net7.0/tiendaCampus.deps.json
+/home/skylab-114/Documents/Joshua/newTiendaCampus/bin/Debug/net7.0/tiendaCampus.runtimeconfig.json
+/home/skylab-114/Documents/Joshua/newTiendaCampus/bin/Debug/net7.0/tiendaCampus.dll
+/home/skylab-114/Documents/Joshua/newTiendaCampus/bin/Debug/net7.0/tiendaCampus.pdb
+/home/skylab-114/Documents/Joshua/newTiendaCampus/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.csproj.CopyComplete
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.dll
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/refint/tiendaCampus.dll
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.pdb
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/tiendaCampus.genruntimeconfig.cache
+/home/skylab-114/Documents/Joshua/newTiendaCampus/obj/Debug/net7.0/ref/tiendaCampus.dll
