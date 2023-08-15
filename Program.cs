@@ -1,7 +1,36 @@
-﻿internal class Program
+﻿using Newtonsoft.Json;
+using tiendaCampus;
+using tiendaCampus.Entities;
+using tiendaCampus.View;
+
+internal class Program
 {
-    private static void Main()
+    private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int opcion;
+        if(Env.ValidarFile(Env.FileName) == false){
+            File.WriteAllText(Env.FileName, "");
+        }else{
+            Env.LoadDataProductos(Env.FileName);
+        }
+        Env.ImprimirData("dddddd",Env.TiendaCampus.Categorias);
+        do{
+            opcion = MenusView.MenuPrincipal();
+            switch(opcion){
+                case 1:
+                    Console.ReadKey();
+                    break;
+                case 2:
+                    Console.ReadKey();
+                    Categoria.AddCategory();
+                    string json = JsonConvert.SerializeObject(Env.TiendaCampus, Formatting.Indented);
+                    File.WriteAllText(Env.FileName, json);
+                    break;
+                case 3:
+                    break;
+                default:
+                    break;
+            }
+        }while(opcion != 3);
     }
 }
